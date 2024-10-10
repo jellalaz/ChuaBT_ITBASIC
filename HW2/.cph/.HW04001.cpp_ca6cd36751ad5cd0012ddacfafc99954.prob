@@ -1,0 +1,1 @@
+{"name":"Local: HW04001","url":"/home/jellalaz/Documents/Jellalaz/DATA_CODE/IT_BASIC/HW2/HW04001.cpp","tests":[{"id":1728595638304,"input":"1\n7 2\n1 2 3 4 5 6 7","output":"3 4 5 6 7 1 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/jellalaz/Documents/Jellalaz/DATA_CODE/IT_BASIC/HW2/HW04001.cpp","group":"local","local":true}
